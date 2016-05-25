@@ -1,5 +1,6 @@
-# HEAD
+# v0.2.0
 
+ * Cutting new version 0.2.0 - Jon Rohan [github/github@a6f6586](https://github.com/github/github/commit/a6f6586)
  * cleanup after merge - Jon Rohan [github/github@f9378ca](https://github.com/github/github/commit/f9378ca)
  * Don't link requirements - Jon Rohan [github/github@7740e81](https://github.com/github/github/commit/7740e81)
  * Fixing a few import paths - Jon Rohan [github/github@73e2c51](https://github.com/github/github/commit/73e2c51)
