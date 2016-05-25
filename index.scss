@@ -1,0 +1,8 @@
+@import "primer-support/index.scss";
+// the file is .css and sass wants to do a normal css import here
+// scss-lint:disable ImportPath
+@import "normalize.css/normalize";
+// scss-lint:enable ImportPath
+
+@import "./lib/base.scss";
+@import "./lib/typography-base.scss";
