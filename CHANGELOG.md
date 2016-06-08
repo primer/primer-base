@@ -1,5 +1,6 @@
 # HEAD
 
+ * Removing some unnecessary lint plugins and using native - Jon Rohan [github/github@2ae0070](https://github.com/github/github/commit/2ae0070)
  * including no-utility lint plugin - Jon Rohan [github/github@5cb86ed](https://github.com/github/github/commit/5cb86ed)
  * un-delete this - Jon Rohan [github/github@207793a](https://github.com/github/github/commit/207793a)
  * Adding lint plugins for new config - Jon Rohan [github/github@7fb9613](https://github.com/github/github/commit/7fb9613)
