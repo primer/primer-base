@@ -6,11 +6,15 @@ input,
 select,
 textarea,
 button {
-  font: #{$body-font-size}/1.4 $body-font;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
 }
 
 body {
-  font: #{$body-font-size}/1.4 $body-font;
+  font-family: $body-font;
+  font-size: $body-font-size;
+  line-height: $body-line-height;
   color: $text-gray-dark;
   background-color: $bg-white;
 }
