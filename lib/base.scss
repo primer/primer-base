@@ -29,6 +29,10 @@ a {
   }
 }
 
+strong {
+  font-weight: $font-weight-bold;
+}
+
 // Horizontal lines
 //
 // TODO-MDO: Remove `.rule` from everywhere and replace with `<hr>`s
