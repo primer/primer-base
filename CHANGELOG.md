@@ -1,5 +1,8 @@
 # HEAD
 
+ * Updating the modules stylelint - Jon Rohan [github/github@389609f](https://github.com/github/github/commit/389609f)
+ * move over override for octicons to type base for now - Mark Otto [github/github@529af66](https://github.com/github/github/commit/529af66)
+ * move over all bold variable changes - Mark Otto [github/github@6b5b021](https://github.com/github/github/commit/6b5b021)
  * Make sure the modules build without error before publishing - Jon Rohan [github/github@57ac5e6](https://github.com/github/github/commit/57ac5e6)
 
 # v0.2.3
