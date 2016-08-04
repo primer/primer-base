@@ -5,7 +5,7 @@
 
 > GitHub's CSS to reset the browsers default styles. Built on top of normalize.css
 
-This repository is a module of the full [primer-css][primer] repository. And is built off of [normalize.css](https://github.com/necolas/normalize.css/)
+This repository is a module of the full [primer-css][primer-css] repository. And is built off of [normalize.css](https://github.com/necolas/normalize.css/)
 
 ## Install
 
@@ -41,7 +41,7 @@ You can read more about base in the [docs][docs].
 
 [MIT](./LICENSE) &copy; [GitHub](https://github.com/)
 
-[primer]: https://github.com/primer/primer
+[primer-css]: https://github.com/primer/primer
 [docs]: http://primercss.io/
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
