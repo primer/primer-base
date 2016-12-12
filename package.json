@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "name": "primer-base",
   "description": "CSS to reset the browsers default styles",
   "homepage": "http://primercss.io/",
@@ -22,7 +22,6 @@
     "test": "npm run build && stylelint **/*.scss -c .stylelintrc.json -s scss"
   },
   "dependencies": {
-    "normalize.css": "4.1.1",
     "primer-support": "*"
   },
   "devDependencies": {
